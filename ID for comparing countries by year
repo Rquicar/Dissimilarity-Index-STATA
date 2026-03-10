@@ -3,7 +3,6 @@ PROJECT: ID for comparing countries by year
 AUTOR: Tu Nombre
 DATE: 2026
 SOFTWARE: STATA MP 17.0
-DATA: International Social Survey Programme: Social Inequality I-V Cumulation
 * Variables: C4_Padre, C4_D, country, year
 * Missing values: -9 a -1 y 110
 * CATEGORIES (classes): 1, 2, 3, 4
